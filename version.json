@@ -1,0 +1,14 @@
+{
+  "alarm-config": {
+    "version": "1.1.0",
+    "url": "https://github.com/ramanshtpw-stack/TestRepo/releases/download/v1.1.0/alarm-config.zip"
+  },
+  "recipe-manager": {
+    "version": "1.0.0",
+    "url": "https://github.com/ramanshtpw-stack/TestRepo/releases/download/v1.0.0/recipe-manager.zip"
+  },
+  "predictive-maintenance": {
+    "version": "1.0.0",
+    "url": "https://github.com/ramanshtpw-stack/TestRepo/releases/download/v1.0.0/predictive-maintenance.zip"
+  }
+}
